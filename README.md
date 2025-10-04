@@ -19,7 +19,7 @@
 
 <!-- 头像 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Weiwei-wm/Weiwei-wm/main/image/background.jpg" ">
+  <img src="https://raw.githubusercontent.com/Weiwei-wm/Weiwei-wm/main/image/background.jpg" >
 
 </div>
 
@@ -30,4 +30,4 @@
 
 <!-- 动态标题链接 -->
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Hello,i am Weiwei
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+

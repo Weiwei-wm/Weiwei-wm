@@ -19,7 +19,8 @@
 
 <!-- 头像 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Weiwei-wm/Weiwei-wm/main/image/background.jpg" width="150" alt="头像" style="border-radius:50%;">
+  <img src="https://raw.githubusercontent.com/Weiwei-wm/Weiwei-wm/main/image/background.jpg" ">
+
 </div>
 
 <!-- 访客计数器 -->
